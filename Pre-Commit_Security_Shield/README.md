@@ -1,6 +1,6 @@
-# Pre-Commit_Security_Shield
+# Pre-Commit Security Shield
 
-The tool prevents hardcoded secrets (e.g. AWS Keys, API Keys) and insecure code patterns from reaching the remote repository.
+The tool prevents hardcoded secrets (e.g. AWS Keys, API Keys) and insecure code patterns from reaching the remote Git repository.
 
 ## Workflow
 
