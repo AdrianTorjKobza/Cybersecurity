@@ -1,6 +1,6 @@
 # DevSecOps Pipeline
 
-CI/CD pipeline template designed to enforce security at every stage of the software development lifecycle. It integrates SCA, SAST, Container Scanning, and DAST into a single automated workflow.
+CI/CD pipeline template to enforce security at every stage of the software development lifecycle. It integrates SCA, SAST, Container Scanning, and DAST into a single automated workflow.
 
 ## Pipeline Stages
 1. **SCA (Trivy):** Analyzes `requirements.txt` for publicly known vulnerabilities (CVEs).
